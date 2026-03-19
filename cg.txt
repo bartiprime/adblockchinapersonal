@@ -56,3 +56,4 @@
 ###article-top-banner-17
 ###article-top-banner-18
 ###article-top-banner-19
+##div[class="post-content"]>blockquote
