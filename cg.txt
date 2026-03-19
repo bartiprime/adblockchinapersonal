@@ -34,3 +34,5 @@
 ###body-bottom > .container
 ##.footer-desc
 ##.container > p
+##.post > div > .horizontal-banner
+##.txt-apps
