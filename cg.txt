@@ -18,3 +18,19 @@
 ###nav-side-toolbar-qq
 ###nav-side-toolbar-twitter
 ###nav-side-toolbar-fa-brands
+##blockquote:nth-of-type(1)
+##h2:nth-of-type(3)
+##table
+##blockquote:nth-of-type(2)
+##[src^="data:image/jpeg;base64,"]
+##.content-copyright
+##p:nth-of-type(15)
+##.btn-download
+##.content-tabs-head
+##.content-tabs-body
+##.flash
+##.post-near .prev
+##.post-near > nav
+###body-bottom > .container
+##.footer-desc
+##.container > p
