@@ -36,3 +36,23 @@
 ##.container > p
 ##.post > div > .horizontal-banner
 ##.txt-apps
+###article-top-banner-0
+###article-top-banner-1
+###article-top-banner-2
+###article-top-banner-3
+###article-top-banner-4
+###article-top-banner-5
+###article-top-banner-6
+###article-top-banner-7
+###article-top-banner-8
+###article-top-banner-9
+###article-top-banner-10
+###article-top-banner-11
+###article-top-banner-12
+###article-top-banner-13
+###article-top-banner-14
+###article-top-banner-15
+###article-top-banner-16
+###article-top-banner-17
+###article-top-banner-18
+###article-top-banner-19
